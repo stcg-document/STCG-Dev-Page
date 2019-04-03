@@ -1,6 +1,6 @@
 ﻿##### STCG-Dev-Page
 ---
-[![Inline docs](http://inch-ci.org/github/stcg-document/STCG-Dev-Page.svg?branch=master)](http://inch-ci.org/github/stcg-document/STCG-Dev-Page)
+![GitHub issues](https://img.shields.io/github/issues-raw/stcg-document/STCG-Dev-Page.svg?color=red&label=%E5%95%8F%E9%A1%8C%E7%82%B9&style=for-the-badge)
 
 STCGの開発側が管理するページです。
 現状、記述してあることは下記の通りです
