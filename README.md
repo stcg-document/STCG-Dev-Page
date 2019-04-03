@@ -1,5 +1,7 @@
 ﻿##### STCG-Dev-Page
 ---
+[![Inline docs](http://inch-ci.org/github/stcg-document/STCG-Dev-Page.svg?branch=master)](http://inch-ci.org/github/stcg-document/STCG-Dev-Page)
+
 STCGの開発側が管理するページです。
 現状、記述してあることは下記の通りです
 
